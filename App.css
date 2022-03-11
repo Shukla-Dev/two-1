@@ -1,0 +1,15 @@
+.App {
+	min-height: 500px;
+	background: #ff9999;
+}
+.card {
+	margin-top: 125px;
+}
+img {
+	margin-top: -80px;
+}
+.footer {
+	color: #777;
+	padding: 40px;
+	text-align: center;
+}
